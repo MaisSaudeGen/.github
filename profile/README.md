@@ -1,7 +1,9 @@
 <h1 align = center> Projeto Mais Saúde </h1>
-<a align = center href="https://front-end-projeto-integrador-neon.vercel.app/" </a> 
 
 <div align = center>
+ 
+ <a href="https://front-end-projeto-integrador-neon.vercel.app/" target="_blank"> Mais Saúde </a> 
+ 
 <h2> Sobre </h2>
 <p>
 Bem-vindo(a) à Mais Saúde, a plataforma que une tecnologia e saúde para promover o bem-estar psicossocial e contribuir para a realização da ODS número 3 da ONU: assegurar uma vida 
@@ -55,7 +57,7 @@ prosperar juntos!
   <tr>
     <td align="center"><a href="https://github.com/MJCatafesta"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1159900868242587801/1178172349707714621/Matheus.jpeg?ex=65752d81&is=6562b881&hm=2a884fac62a624e36f4f56de4e2e8bf0813803c57aa438384e526c116335a2bb&" width="150px;" alt="Matheus Willian"/><br /><sub><b>Matheus Willian</b></sub></a><br/></td>
      <td align="center"><a href="https://github.com/Maycleal"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1159900868242587801/1178172350047465612/Mayara.jpeg?ex=65752d81&is=6562b881&hm=6aa432a9467c844950481ba40c5d5e1b1581764d11c0fb063d2ff6528ff5303c&" width="150px;" alt="Mayara Leal"/><br /><sub><b>Mayara Leal</b></sub></a><br/></td>
-      <td align="center"><a href="https://github.com/Sterchaves"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1159900868242587801/1178172350324297880/Stephanny.jpeg?ex=65752d81&is=6562b881&hm=ca980998550a2603f086e332ebafb101a9d76eaa39ae66121d61c263f702dc57&" width="150px;" alt="Stephanny Chaves"/><br /><sub><b>Stephanny Chaves</b></sub></a><br/></td>
+      <td align="center"><a href="https://github.com/Sterchaves"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1159900868242587801/1178172350324297880/Stephanny.jpeg?ex=65752d81&is=6562b881&hm=ca980998550a2603f086e332ebafb101a9d76eaa39ae66121d61c263f702dc57&" width="190px;" alt="Stephanny Chaves"/><br /><sub><b>Stephanny Chaves</b></sub></a><br/></td>
   </tr>
  <tr>
   <td align="center"><a href="https://github.com/thamirespereira"><img style="border-radius: 50%;" src="https://cdn.discordapp.com/attachments/1159900868242587801/1178172350622085200/Thamires.jpeg?ex=65752d81&is=6562b881&hm=d6066dc8b9ee2cd5c9e44d61b4881ef46e53f0383ba0e4f30015e3e01c6b672d&" width="150px;" alt="Thamires Pereira"/><br /><sub><b>Thamires Pereira</b></sub></a><br/></td>
