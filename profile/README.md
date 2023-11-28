@@ -47,6 +47,25 @@ Na busca por proporcionar acesso à saúde de qualidade, reconhecemos a urgênci
      <img height="50px" width="50px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" alt="figma"/>
    </a>
 
+
+<h2>Galeria de Imagens</h2>
+
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155790687391854/Captura_de_tela_2023-11-28_151050.png?ex=6578c168&is=65664c68&hm=1e0a7538627e52037fc5a786ed5dbff6282f47a789d608016fd646fa9ca62900&format=webp&quality=lossless&width=807&height=425" alt="Imagem 1" style="width: 45%;">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155790368612545/Captura_de_tela_2023-11-28_151114.png?ex=6578c168&is=65664c68&hm=a5e0c30e3ec2391c8702e86bda1c11b086ce66b868410ad5d69738153dcdf7ab&format=webp&quality=lossless&width=807&height=425" alt="Imagem 2" style="width: 45%;">
+</div>
+
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155738107592846/Captura_de_tela_2023-11-28_151353.png?ex=6578c15b&is=65664c5b&hm=c489e0e2e1df35bd67d841a438d25feec0f00aa5ea21bd99f27d425f35be40e5&format=webp&quality=lossless&width=807&height=425" alt="Imagem 3" style="width: 45%;">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155739642699937/Captura_de_tela_2023-11-28_151315.png?ex=6578c15b&is=65664c5b&hm=ed75b22ad8397e520e2fd08fb95e33761e885955d5bdf555303b5a014db1035d&format=webp&quality=lossless&width=807&height=425" alt="Imagem 4" style="width: 45%;">
+</div>
+
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155740481552415/Captura_de_tela_2023-11-28_151328.png?ex=6578c15c&is=65664c5c&hm=83ec73b05c37a99d1cfcae067e844dc9b6833fbdbb786543b1c53e90300a5997&format=webp&quality=lossless&width=807&height=425" alt="Imagem 5" style="width: 45%;">
+  <img src="https://media.discordapp.net/attachments/1160929081899090021/1179155738422149130/Captura_de_tela_2023-11-28_151424.png?ex=6578c15b&is=65664c5b&hm=de4c8c47f1682700d6d1a06ed1877f54e3efc5fd73ceeea18e855e98c6af4c3c&format=webp&quality=lossless&width=807&height=425" alt="Imagem 6" style="width: 45%;">
+</div>
+
+
 <h2> Desenvolvedores </h2>
 
 <table align=center>
