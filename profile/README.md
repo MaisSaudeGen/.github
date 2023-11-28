@@ -2,15 +2,16 @@
 
 <div align = center>
  
- <a href="https://front-end-projeto-integrador-neon.vercel.app/" target="_blank"> Mais Saúde </a> 
+  <img src="https://media.discordapp.net/attachments/1139577278892875781/1175109983097061446/2_-_Copia-transformed.png?ex=657343f4&is=6560cef4&hm=fe7506c37d2e4e0c2db3ff2a42fd74c9aaae44b45c04268010d39933087d9566&=&format=webp&quality=lossless&width=474&height=152" alt="Logo do Projeto Mais Saúde">
+  
+  <a href="https://front-end-projeto-integrador-neon.vercel.app/" target="_blank"> Mais Saúde </a> 
+</div>
  
 <h2> Sobre </h2>
 <p>
-Bem-vindo(a) à Mais Saúde, a plataforma que une tecnologia e saúde para promover o bem-estar psicossocial e contribuir para a realização da ODS número 3 da ONU: assegurar uma vida 
-saudável e promover o bem-estar para todos, em todas as idades. Na busca por alcançar o acesso à saúde de qualidade, identificamos a necessidade urgente de disseminar conhecimento sobre 
-bem-estar psicossocial. Para concretizar essa missão, criamos uma rede social inovadora, conectando cidadãos comuns a profissionais da saúde por meio de fóruns, postagens e conversas 
-construtivas. Junte-se a nós na jornada em direção a uma vida mais saudável e equilibrada. Mais Saúde está aqui para ser sua plataforma de apoio e conhecimento. Vamos construir, aprender e 
-prosperar juntos!
+A iniciativa do projeto Mais Saúde visa unir tecnologia e saúde para promover o bem-estar psicossocial, contribuindo para a realização da ODS número 3 da ONU: assegurar uma vida saudável e promover o bem-estar para todos, em todas as idades.
+
+Na busca por proporcionar acesso à saúde de qualidade, reconhecemos a urgência em disseminar conhecimento sobre bem-estar psicossocial. Para concretizar essa missão, criamos uma rede social inovadora, conectando cidadãos comuns a profissionais da saúde por meio de fóruns, postagens e conversas construtivas.
 </p>
 
 <h2> Tecnologias </h2>
